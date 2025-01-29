@@ -8,7 +8,6 @@ This repository contains the design and implementation of an 8-bit ALU (Arithmet
 - [Technologies Used](#technologies-used)
 - [How It Works](#how-it-works)
 - [Usage](#usage)
-- [Screenshots](#screenshots/main.jpg)
 - [Conclusion](#conclusion)
 
 ## Project Overview
@@ -43,6 +42,10 @@ The ALU takes two 8-bit input values and a **2-bit control signal** to determine
   - A multiplexer selects the corresponding arithmetic circuit based on the **2-bit control signal**.
   - The ALU processes the inputs and outputs the **8-bit result**.
   - The **result** is displayed using LEDs or a 7-segment display.
+
+### 🧮 Project viewv 
+![Project viewv](screenshots/main.jpg) 
+
 
 ## Usage
 1. Clone the repository:
