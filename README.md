@@ -50,4 +50,4 @@ The ALU takes two 8-bit input values and a **2-bit control signal** to determine
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/8-bit-ALU.git
+   git clone https://github.com/Mohammadsajjad-Rahmani/Arithmetic-and-Logic-Unit.git
